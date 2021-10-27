@@ -14,7 +14,7 @@ module.exports = {
 	name: "moleculer-amqp-queue",
 
 	settings: {
-		url: "amqp://localhost"
+		url: "amqp://rabbitmq"
 	},
 
 	methods: {
